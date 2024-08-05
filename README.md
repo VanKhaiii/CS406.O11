@@ -34,7 +34,7 @@ Bài toán phát hiện và nhận văn bản tiếng Việt trong cảnh là m�
 - Đầu vào (Input): Ảnh chứa nội dung văn bản bằng Tiếng Việt, với mỗi hình ảnh có thể chứa một hoặc nhiều đối tượng văn bản và với các biến dạng khác nhau như kích thước, màu sắc... 
 - Đầu ra (Output): Các polygons xác định vùng chứa văn bản trong ảnh và chuỗi ký tự tương ứng. Mỗi polygon là một danh sách toạ độ (x, y) của các điểm.
 
-<img src = "https://github.com/VanKhaiii/CS337.O11/blob/main/Images/image.webp">
+<img src = "https://github.com/VanKhaiii/CS406.O11/blob/main/Images/image.png">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
